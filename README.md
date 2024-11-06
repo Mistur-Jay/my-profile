@@ -25,7 +25,7 @@ Data Analyst 👨‍💻
 </div>
 
 </div>
-### :fire:My Stats:
+<h3> 🔥My Stats
 <div align="center">
 <img height=200 align="center"
   
